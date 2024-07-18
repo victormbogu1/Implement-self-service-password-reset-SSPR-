@@ -1,6 +1,6 @@
 # Implement-self-service-password-reset)SSPR
 ## Description
-This project demonstrates how to implement self-service password reset (SSPR) in Microsoft Entra ID for an organization. I will configure and test SSPR using a mobile phone, which will be necessary to complete the password reset process. This lab simulates a business environment setup, utilizing tools such as the Microsoft Azure portal. SSPR is essential for most large organizations due to the high number of users. Users often complain about delays with password resets, and not finding a solution to enhance password management can slow down processes as too many passwords are being reset manually.
+This project demonstrates how to implement self-service password reset (SSPR) in Microsoft Entra ID for an organization. I will configure and test SSPR using a mobile phone, which will be necessary to complete the password reset process. This lab simulates a business environment setup, utilizing Azure Microsoft Azure portal. SSPR is essential for most large organizations due to the high number of users. Users often complain about delays with password resets, and not finding a solution to enhance password management can slow down processes as too many passwords are being reset manually.
 
 ## Environments Used
   + Azure Portal
